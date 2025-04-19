@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="531b7994-e395-4f8b-8940-de9ef70ef73b" name="Changes" comment="This is comparable and comparator Example for sorting 18-04-2025" />
+    <list default="true" id="531b7994-e395-4f8b-8940-de9ef70ef73b" name="Changes" comment="This is comparable and comparator Example for sorting 18-04-2025">
+      <change afterPath="$PROJECT_DIR$/src/serializableAndDeserializable/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,21 +55,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ComparableDemo.executor": "Run",
-    "Application.ComplexSortingDemo.executor": "Run",
-    "Application.LambdaComparatorDemo.executor": "Run",
-    "Application.MultiCriteriaDemo.executor": "Run",
-    "Application.ReverseOrderDemo.executor": "Run",
-    "Application.StudentNameCoparator.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/my_works/spring_work/Springboot/javaBasics"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ComparableDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComplexSortingDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaComparatorDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiCriteriaDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseOrderDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentNameCoparator.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/my_works/spring_work/Springboot/javaBasics&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.ComparableDemo">
     <configuration name="ComparableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="comparableAndComparator.ComparableDemo" />
