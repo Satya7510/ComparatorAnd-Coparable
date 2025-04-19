@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="531b7994-e395-4f8b-8940-de9ef70ef73b" name="Changes" comment="This is comparable and comparator Example for sorting 18-04-2025">
-      <change afterPath="$PROJECT_DIR$/src/serializableAndDeserializable/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaBasics/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaBasics/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaBasics/comparableAndComparator/ComparableDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaBasics/comparableAndComparator/ComparableDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaBasics/comparableAndComparator/ComparatorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaBasics/comparableAndComparator/ComparatorDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaBasics/comparableAndComparator/ComplexSortingDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaBasics/comparableAndComparator/ComplexSortingDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaBasics/comparableAndComparator/LambdaComparatorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaBasics/comparableAndComparator/LambdaComparatorDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaBasics/comparableAndComparator/MultiCriteriaDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaBasics/comparableAndComparator/MultiCriteriaDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaBasics/comparableAndComparator/ReverseOrderDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaBasics/comparableAndComparator/ReverseOrderDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaBasics/comparableAndComparator/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaBasics/comparableAndComparator/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaBasics/comparableAndComparator/StudentNameCoparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaBasics/comparableAndComparator/StudentNameCoparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serializableAndDeserializable/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/serializableAndDeserializable/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,22 +63,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ComparableDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ComplexSortingDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LambdaComparatorDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiCriteriaDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseOrderDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StudentNameCoparator.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/my_works/spring_work/Springboot/javaBasics&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ComparableDemo.executor": "Run",
+    "Application.ComplexSortingDemo.executor": "Run",
+    "Application.Example.executor": "Run",
+    "Application.LambdaComparatorDemo.executor": "Run",
+    "Application.MultiCriteriaDemo.executor": "Run",
+    "Application.ReverseOrderDemo.executor": "Run",
+    "Application.StudentNameCoparator.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/my_works/spring_work/Springboot/javaBasics"
   }
-}</component>
-  <component name="RunManager" selected="Application.ComparableDemo">
+}]]></component>
+  <component name="RunManager" selected="Application.Example">
     <configuration name="ComparableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="comparableAndComparator.ComparableDemo" />
       <module name="javaBasics" />
@@ -97,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaComparatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="comparableAndComparator.LambdaComparatorDemo" />
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="serializableAndDeserializable.Example" />
       <module name="javaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="comparableAndComparator.*" />
+          <option name="PATTERN" value="serializableAndDeserializable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example" />
         <item itemvalue="Application.ComparableDemo" />
         <item itemvalue="Application.ComplexSortingDemo" />
         <item itemvalue="Application.ReverseOrderDemo" />
         <item itemvalue="Application.MultiCriteriaDemo" />
-        <item itemvalue="Application.LambdaComparatorDemo" />
       </list>
     </recent_temporary>
   </component>
